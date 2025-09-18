@@ -1,5 +1,5 @@
 import { useState } from "react"
-
+import TodoItem from "./components/TodoItems"
 
 export default function App (){
   const [task, setTask] = useState("");
