@@ -24,7 +24,7 @@ To run this project, you will need to have the following installed on your machi
  *  Node.js
 Installation
  * Clone the repository:
-   git clone [https://github.com/aabrahamjay/General.git]
+   git clone [https://github.com/aabrahamjay/class-project.git]
 
  * Navigate to the project directory:
    cd [general]
